@@ -343,6 +343,9 @@ headingDivider: 3
 
 <div><img class="more-wide" src="images/upload_file.png"></div>
 
+### GoogleSlideにインポートする③
+<div><img class="more-wide" src="images/select_slide.png"></div>
+
 ### ⚠注意点⚠
 インポートしたスライドは1枚の画像として取り込まれています。
 そのため、Google Slide上で直接編集することはできません！
