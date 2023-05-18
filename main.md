@@ -52,6 +52,9 @@ headingDivider: 3
 6. 完成したスライドをGoogleSlideにインポートする
 7. まとめ
 
+# 事前準備
+下記のリポジトリをcloneしてください
+https://github.com/KengoNakamura6100032/marp_study
 
 ## 1. 全体像の紹介
 
